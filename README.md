@@ -1,24 +1,3 @@
-
-# React Essentials Boilerplate
-
-  
-
-This project is a simple React boilerplate to easily and quickly start on a new React project.
-
-  
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-  
-
-## What comes with this Boilerplate?
-
-  
-
-The React Essentials Boilerplate features a few of the most common and necessary libs to create a modern and expandable React App:
-
-  
-
 ### [React](https://reactjs.org/)
 
   
@@ -75,10 +54,8 @@ The React Essentials Boilerplate features a few of the most common and necessary
 
 ## Motivation
 
-  
 
-This boilerplate was created mainly to streamline the start process of my own React projects, as i realized that i commonly use these libs and follow this same project architecture. Hopefully, this will also be useful to you!
-
+This boilerplate was created mainly to streamline the start process of React projects
   
 
 ## How to use
